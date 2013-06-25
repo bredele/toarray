@@ -1,0 +1,14 @@
+{
+  "name": "toArray",
+  "repo": "bredele/toArray",
+  "description": "Array-like to Array",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
