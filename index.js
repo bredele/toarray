@@ -14,5 +14,5 @@ module.exports = toArray;
  */
 
 function toArray(obj, index) {
-  return [].slice.call(obj).slice(index);
+  return [].slice.call(obj, index);
 }
