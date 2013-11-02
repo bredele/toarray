@@ -4,7 +4,7 @@
 
 ## Installation
 
-    $ component install leafs/toArray
+    $ component install bredele/toArray
 
 ## API
 
